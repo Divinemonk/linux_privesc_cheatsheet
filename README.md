@@ -1,4 +1,5 @@
 # _Linux Privilege Escalation_ cheatsheet
+> get used programs/scripts (& more) in `/tools`
 
 <br>
 
